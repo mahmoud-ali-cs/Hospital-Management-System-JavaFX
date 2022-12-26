@@ -1,4 +1,3 @@
 # Hospital Management System
 
-
-JavaFX App that manages rooms’ reservation by checking for bed availability and allocate it accordingly as per the patient need. The patients can reserve a surgery and assign specific doctors to them.
+This hospital management application is designed to make managing a hospital easier and more efficient. It uses object-oriented programming (OOP) concepts and a database to store and manage patient information, medical records, billing information, and other data. The application allows users to quickly and easily access patient information and view medical records. It also provides a secure and reliable way to store and access patient data. The application is designed to be user-friendly and intuitive, making it easy for hospital staff to use.
